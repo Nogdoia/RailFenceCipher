@@ -19,4 +19,5 @@ def encode(key, text):
 key = int(input('Key? '))
 text = input('Text? ')
 print(encode(key, text))
+input('Press any key to exit')
             
